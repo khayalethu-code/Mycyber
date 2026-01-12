@@ -10,6 +10,11 @@ I am a Current University student  with a profound interest in Cybersecurity, te
  
 My journey in BSc in Network Security and Computer Forensics has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+Associated project
+
+1. <a href="https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main</a>
+
+
  Skills & Tools
 - Network Analysis: Wireshark & tcpdump
 - SIEM / Log Monitoring: Splunk & Google Chronicle
@@ -70,6 +75,5 @@ Specialized & AI Training
 <div> <a href="https://www.credly.com/badges/86b6d82e-292f-46fa-9e7f-cd3b6f6c4272/public_url"> <img src="https://img.shields.io/badge/-Cisco_Intro_to_Modern_AI-0499D0?&style=for-the-badge&logo=Cisco&logoColor=white" /> </a> <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logo=HTB&logoColor=white" /> <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> </div>
 
  Projects
-- Detection Lab
-- SOC Automation Project
+1. <a href="https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main</a>
 
