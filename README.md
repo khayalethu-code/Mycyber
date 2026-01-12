@@ -68,12 +68,25 @@ Operating Systems & Infrastructure
 
 Certifications & Professional Development
 
- Cybersecurity
-<div> <a href="https://www.credly.com/badges/86b6d82e-292f-46fa-9e7f-cd3b6f6c4272/public_url"> <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Essentials-005073?&style=for-the-badge&logo=Cisco&logoColor=white" /> </a> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </div>
+Cybersecurity
+
+<div> 
+  <a href="https://www.credly.com/badges/86b6d82e-292f-46fa-9e7f-cd3b6f6c4272/public_url"> 
+    <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Essentials-005073?&style=for-the-badge&logo=Cisco&logoColor=white" /> 
+  </a> 
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
+</div>
 
 Specialized & AI Training
-<div> <a href="https://www.credly.com/badges/86b6d82e-292f-46fa-9e7f-cd3b6f6c4272/public_url"> <img src="https://img.shields.io/badge/-Cisco_Intro_to_Modern_AI-0499D0?&style=for-the-badge&logo=Cisco&logoColor=white" /> </a> <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logo=HTB&logoColor=white" /> <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> </div>
 
+<div> 
+  <a href="https://www.credly.com/badges/86b6d82e-292f-46fa-9e7f-cd3b6f6c4272/public_url"> 
+    <img src="https://img.shields.io/badge/-Cisco_Intro_to_Modern_AI-0499D0?&style=for-the-badge&logo=Cisco&logoColor=white" /> 
+  </a> 
+</div>
+ 
  Projects
+ 
 1. <a href="https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main</a>
 
