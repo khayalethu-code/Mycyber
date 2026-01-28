@@ -99,6 +99,8 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 1. <a href="https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main">Investigating a Threat Landscape</a>
 
 2. <a href="https://github.com/khayalethu-code/Cybersecurity-Client-Support-Exercise/blob/main/README.md">Cybersecurity Client Support Exercise</a>
+3. <a href="https://github.com/khayalethu-code/Reading-Server-Logs">Reading Server Logs Project</a>
+
 
 
 
