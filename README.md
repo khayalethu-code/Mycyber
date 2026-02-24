@@ -13,7 +13,8 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 
 ## Associated project ##
 
-1. <a href="https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main</a>
+1. https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main</a>
+2. <a href="https://github.com/khayalethu-code/Harden-a-Linux-System/blob/main/README.md">Harden-a-Linux-System/README.md at main · khayalethu-code/Harden-a-Linux-System</a>
 
 
  ##Skills & Tools ##
@@ -94,7 +95,7 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 </div>
 
  
-## Projects ##
+## Projects  & Labs ##
  
 1. <a href="https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main">Investigating a Threat Landscape</a>
 
