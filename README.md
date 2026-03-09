@@ -101,6 +101,7 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 2. <a href="https://github.com/khayalethu-code/Cybersecurity-Client-Support-Exercise/blob/main/README.md">Cybersecurity Client Support Exercise</a>
 3. <a href="https://github.com/khayalethu-code/Reading-Server-Logs">Reading Server Logs Project</a>
 4. <a href="https://github.com/khayalethu-code/Harden-a-Linux-System/blob/main/README.md">Harden-a-Linux-System/README.md at main · khayalethu-code/Harden-a-Linux-System</a>
+5. [Online Malware Investigation](https://github.com/khayalethu-code/Online-Malware-Investigation/blob/main/README.md)
 
 
 
