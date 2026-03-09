@@ -98,7 +98,6 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 ## Projects  & Labs ##
  
 1. <a href="https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main">Investigating a Threat Landscape</a>
-
 2. <a href="https://github.com/khayalethu-code/Cybersecurity-Client-Support-Exercise/blob/main/README.md">Cybersecurity Client Support Exercise</a>
 3. <a href="https://github.com/khayalethu-code/Reading-Server-Logs">Reading Server Logs Project</a>
 4. <a href="https://github.com/khayalethu-code/Harden-a-Linux-System/blob/main/README.md">Harden-a-Linux-System/README.md at main · khayalethu-code/Harden-a-Linux-System</a>
