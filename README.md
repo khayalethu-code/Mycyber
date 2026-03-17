@@ -19,7 +19,11 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 
  ##Skills & Tools ##
  
+ 
 - Network Analysis: Wireshark & tcpdump
+- Data Isolation & Leakage Protection (DLP)
+- Privacy-Preserving Security Implementation
+- Endpoint Management
 - SIEM / Log Monitoring: Splunk & Google Chronicle
 - Network Simulation: Cisco Packet Tracer
 - Vulnerability Scanning: Nmap
@@ -102,6 +106,7 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 3. <a href="https://github.com/khayalethu-code/Reading-Server-Logs">Reading Server Logs Project</a>
 4. <a href="https://github.com/khayalethu-code/Harden-a-Linux-System/blob/main/README.md">Harden-a-Linux-System/README.md at main · khayalethu-code/Harden-a-Linux-System</a>
 5. [Online Malware Investigation](https://github.com/khayalethu-code/Online-Malware-Investigation/blob/main/README.md)
+6. <a href="https://github.com/khayalethu-code/Android-Work-Profile-Containerisation/blob/main/README.md">Android Work Profile Containerisation</a>
 
 
 
