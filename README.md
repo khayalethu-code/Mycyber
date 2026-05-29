@@ -107,7 +107,18 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 4. <a href="https://github.com/khayalethu-code/Harden-a-Linux-System/blob/main/README.md">Harden-a-Linux-System/README.md at main · khayalethu-code/Harden-a-Linux-System</a>
 5. [Online Malware Investigation](https://github.com/khayalethu-code/Online-Malware-Investigation/blob/main/README.md)
 6. <a href="https://github.com/khayalethu-code/Android-Work-Profile-Containerisation/blob/main/README.md">Android Work Profile Containerisation</a>
-7. <a href="https://github.com/khayalethu-code/secure-wireless-network-traffic-analysis">
+7. <a href="https://github.com/khayalethu-code/secure-wireless-network-traffic-analysis">secure-wireless-network-traffic-analysis</a>
+8. <a href="https://github.com/khayalethu-code/Splunk-Incident-Investigation-Detecting-Suspicious-Activity-Through-Log-Analysis">Splunk Incident Investigation - Detecting Suspicious Activity Through Log Analysis</a>
+9. <a href="https://github.com/khayalethu-code/CodeAlpha_Basic_Network_Sniffer-">CodeAlpha Basic Network Sniffer</a>
+10. <a href="https://github.com/khayalethu-code/CodeAlpha_SecureCodingReview">CodeAlpha Secure Coding Review</a>
+11. <a href="https://github.com/khayalethu-code/Securing-Remote-Access-via-SSH-on-Cisco-Routers">Securing Remote Access via SSH on Cisco Routers</a>
+12. <a href="https://github.com/khayalethu-code/Splunk-Incident-Investigation-From-Web-Shell-to-Ransomware-Staging">Splunk Incident Investigation - From Web Shell to Ransomware Staging</a>
+13. <a href="https://github.com/khayalethu-code/Phishing-Analysis-2">Phishing Analysis 2</a>
+14. <a href="https://github.com/khayalethu-code/codealpha_tasks">CodeAlpha Tasks</a>
+
+
+
+
 
 
 
