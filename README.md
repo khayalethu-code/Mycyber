@@ -5,7 +5,20 @@
 
 ## Brief Introduction ## 
 
-I am a Current University student  with a profound interest in Cybersecurity, technology and a dedication to solving complex problems.
+About Me
+
+I am a BSc Network Security and Computer Forensics student with a strong interest in cybersecurity, threat detection, digital investigations, and defensive security operations.
+
+Through hands-on projects, virtual labs, and remote cybersecurity internships, I have developed practical experience in SOC investigations, SIEM monitoring, phishing analysis, malware investigation, Linux hardening, network traffic analysis, and security monitoring.
+
+I enjoy building and testing secure environments, investigating suspicious activity, and working with real-world cybersecurity tools to strengthen my technical and analytical skills.
+
+Currently pursuing opportunities in:
+
+Security Operations Center (SOC)
+Blue Team Operations
+Threat Detection & Incident Response
+Junior Cybersecurity Analyst Roles
 
  ## Objective ##
  
@@ -15,6 +28,22 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 
 1. https://github.com/khayalethu-code/Investigating-a-Threat-Landscape/tree/main</a>
 2. <a href="https://github.com/khayalethu-code/Harden-a-Linux-System/blob/main/README.md">Harden-a-Linux-System/README.md at main · khayalethu-code/Harden-a-Linux-System</a>
+
+## Experience
+
+## Remote Cybersecurity Internships
+
+# CodeAlpha — Remote Cybersecurity Intern
+
+* Conducted cybersecurity projects focused on packet analysis, secure coding reviews, and network monitoring
+* Developed hands-on experience using Python, Wireshark, and Linux-based security tools
+* Built practical cybersecurity projects and documented findings through GitHub repositories
+  
+## Redynox — Remote Cybersecurity Intern
+
+* Worked on cybersecurity-related tasks involving security operations concepts and technical investigations
+* Strengthened analytical, documentation, and defensive security skills
+* Gained exposure to real-world cybersecurity workflows and reporting practices
 
 
  ##Skills & Tools ##
@@ -77,6 +106,7 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 
 ## Cybersecurity ##
 
+
 <div> 
   <a href="https://www.credly.com/badges/86b6d82e-292f-46fa-9e7f-cd3b6f6c4272/public_url"> 
     <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Essentials-005073?&style=for-the-badge&logo=Cisco&logoColor=white" /> 
@@ -84,6 +114,9 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=Google&logoColor=white" /> 
 </div>
+<a href="https://www.credly.com/badges/dfeebc25-525e-4d29-875b-7c96d3f8f682">
+<img src="https://img.shields.io/badge/-Cisco_CyberOps-049FD9?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</a>
 
 ## Specialized & AI Training ##
 
@@ -115,6 +148,24 @@ My journey in BSc in Network Security and Computer Forensics has led me to devel
 12. <a href="https://github.com/khayalethu-code/Splunk-Incident-Investigation-From-Web-Shell-to-Ransomware-Staging">Splunk Incident Investigation - From Web Shell to Ransomware Staging</a>
 13. <a href="https://github.com/khayalethu-code/Phishing-Analysis-2">Phishing Analysis 2</a>
 14. <a href="https://github.com/khayalethu-code/codealpha_tasks">CodeAlpha Tasks</a>
+
+
+## Career Goals
+
+I am actively building practical experience in:
+
+* Security Operations Center (SOC) workflows
+* Threat detection & incident response
+* SIEM investigations
+* Network defense
+* Blue Team operations
+
+## Currently seeking:
+
+* SOC Analyst internships
+* Cybersecurity internships
+* Entry-level SOC opportunities
+* Junior Security Analyst roles
 
 
 
